@@ -11,7 +11,7 @@ message = client.messages \
                 .create(
                      body="Ben Dover and Moe Lester need to talk to you.",
                      from_='+14082157063',
-                     to='+14088911891'
+                     to='#'
                  )
 
 print(message.sid)
