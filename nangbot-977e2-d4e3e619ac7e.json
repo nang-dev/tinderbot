@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "nangbot-977e2",
+  "private_key_id": "d4e3e619ac7eb6014088c8a20ad200de6619ba6a",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCqKUfTKEnBS+dA\nclTXa0B2wHr4vsG48G8WlHhuUBB1SMdXtlA8KMSAihhINh13fxWcuRup+/vkUBdw\njnnnMzJ1RCAhBbW8iiTV0HIT00wZYJ83k+0qyP7D+KytlDnpTEa1GVscEtHjwydB\nI2z9mUK+D8WtTitg2RGmrOV3tiBTv+ovz3XY4WiuG/Y5yTaaEbcOPVHdtlmnH3JK\narCb9FZzZdDf+2StCcQVqXS4tXd6o0aRz3yMX82i9UpTk9fDWzvbr1SzlGmyvNKo\nZ/B/3sUFFuy1wyWtVZQc3yb1AFasMtX5eXZYBXJj86kPDdClVxdUXJ3MMlIWnnNV\nb8b2geUNAgMBAAECggEAQc20+PObkiTISSPtq2DOjR3icE9UmzBfxVulNwO/WZvL\neyAF5z3cv9ini0ViH9QFh5YOHK5VuvU+G0j922rxGGhABIUwwriphgYWF5Se2TGE\nYPnTvbf8zcxc+sNXoeDddytXEIQ2pt3RUF9ixq9+IAH5cAvKuqk3Kj2yf5ju53Ou\nJzyU2sBMOxfWi6jvFJsUs2052kNc+GzQZRmTjvq1W9aBX8BQcPAbGkW6TXohAFnd\nGecH5oMwVdrTd3AYwPmqAz4DDB0gJsUz+NC7hnICvaXFrGf+NUldZ23wS1aC4BnR\n7BtonZJ3RiziSZEyDvNZgDCabvzBeeVNr+yh2a7UAQKBgQDiXlcpYwXYtu6XjjVv\n1UYJoz5zUNrQ+luIms5IBmO6LYBhwvCoziRJcFNR6C/nJoxZ3UTH9Vnd4952PS7d\n1mP8frKr1JvV2ZJABnRNjBrMIl6yl3ZkBxsmLZSmCZMN/n5hI6oukFEjHz5Zlh4P\nXAUEL+Yrrww6FZGy/yM+Jb+/vwKBgQDAb2wOKgH03E7Oy+fetniDQE84VUoq+uOA\nIZx7kYq/mdEZO2ihg71G0udh+V2o8yv14RssDJFXkwRPYLOucKiXUEzB+xcpJGzj\ndfHQnfjjt6TMrqWJwfMhKLY5Ot+Qh+uMDE0htacrdsRquGqgo3KiyJAJEUc4a/ii\nYqOgq73OMwKBgQCGYxGFzXa8GKX+rXtF4CyLLjG2DgtJw0eyCo1qLvjnn3m3EB8F\naBQc0SV1280MglMSSo051Iu8cjowodP/+PY1ARabckXtqBPuFKbZHtMN212y0r6D\nVcClYqv8AnUd+rcWfjDbIew5WKQQVVGVNsD3omQYDPzKQuHTjSpkC88RSwKBgAba\ncQC4IkW0KuJWhLV7ziLugWPCNdf+A2gmyknkTwqv0bCSWxGVfYIuNKtalClWL7Sc\nBbm14N87jyW8jemifX6WD4XBCXwfnfkj1C7X0WtauPXJKoATdjMyHfs/y4J8NLlS\nHtUagQ+dNTWPx8xcxdJiTi7kfKLXxY0S8jzgoOvdAoGBANBzHEzIJd5vKEGkDehy\nVkqtrtLtK3fJhDcE57jEtEngfuMHFbEB4F4MRvAOQANbfpwJr5/T0+VnhfdxMnV0\nlspbUzlrGfx5Wk/rHHgU6Qh8TtDFeol5ylISMec0a+tA4YZBLqDCL+54QEjAeWJ+\nrFFnuoBLrFef+fo6WxZNBZz4\n-----END PRIVATE KEY-----\n",
+  "client_email": "tinder@nangbot-977e2.iam.gserviceaccount.com",
+  "client_id": "109786763456138297177",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/tinder%40nangbot-977e2.iam.gserviceaccount.com"
+}

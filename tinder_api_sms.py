@@ -215,9 +215,25 @@ def match_info(match_id):
     except requests.exceptions.RequestException as e:
         print("Something went wrong. Could not get your match info:", e)
 
-def all_matches():
+def all_matches(count):
     try:
-        url = config.host + '/v2/matches'
+        url = config.host + '/v2/matches?count=' + count
+        r = requests.get(url, headers=headers)
+        return r.json()
+    except requests.exceptions.RequestException as e:
+        print("Something went wrong. Could not get your match info:", e)
+
+def like_count():
+    try:
+        url = config.host + '/v2/fast-match/count'
+        r = requests.get(url, headers=headers)
+        return r.json()
+    except requests.exceptions.RequestException as e:
+        print("Something went wrong. Could not get your data:", e)
+
+def get_messages():
+    try:
+        url = config.host + '/message/2'
         r = requests.get(url, headers=headers)
         return r.json()
     except requests.exceptions.RequestException as e:
