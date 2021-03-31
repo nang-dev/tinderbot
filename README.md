@@ -1,3 +1,5 @@
+Read about this project here: https://medium.com/@nathan_149/i-automated-everything-about-tinder-f67875d5fa35
+
 # Tinder API Documentation - 2018
 
 First off, I want to give a shoutout to <a href='https://gist.github.com/rtt/10403467#file-tinder-api-documentation-md'>@rtt</a> who initially posted the Tinder API Documentation that I found most of these endpoints on. I am writing this to provide a more up-to-date resource for working with the Tinder API.
